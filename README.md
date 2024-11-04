@@ -1,4 +1,4 @@
-# Prediction_Of_Economic_Recesions
+# Prediction_Of_Economic_Recessions
 
 Overview
 This thesis examines the causes, impacts, and recovery patterns associated with economic recessions in the United States, with a particular focus on the most recent downturns. It analyzes historical data, economic indicators, and policy responses to identify patterns and contributing factors that precede recessions and influence recovery. By leveraging both qualitative and quantitative analyses, this research aims to provide insights into how recessions affect various sectors, employment, and consumer behavior and to offer recommendations for mitigating future economic shocks.
